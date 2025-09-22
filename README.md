@@ -16,13 +16,6 @@ The original class materials live in [this GitHub repo](https://github.com/Ahmad
 
 ---
 
-### Career & Personal Growth
-- **CGPA**:   
-- **Typing Speed**:   
-- **Regular LinkedIn Writing**: at least two posts per week to share progress and build a personal brand  
-- **International Hackathons**: gain real-world experience, improve English communication, and work under tight deadlines  
-- **Teaching (Optional)**: build confidence, leadership, and presentation skills
-
 ### Clear steps to follow
 - **CGPA**: To show you are a genuine student
 - **Typing Speed**: aim for 100+ WPM for faster coding and note-taking
